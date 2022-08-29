@@ -1,0 +1,4 @@
+Add 4 spaces to files
+
+sed 's/yyyymmdd/YYYYMMDDHH24MISS/g''s/yyyymmdd/YYYYMMDDHH24MISS/g' filename > changed.txt && mv changed.txt filename
+i
