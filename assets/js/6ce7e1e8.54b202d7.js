@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[2423],{1307:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/hgcommands/blog/tags/hola","allTagsPath":"/hgcommands/blog/tags","count":1}')}}]);

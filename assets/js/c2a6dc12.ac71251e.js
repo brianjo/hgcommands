@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[772],{5207:a=>{a.exports=JSON.parse('{"label":"facebook","permalink":"/hgcommands/blog/tags/facebook","allTagsPath":"/hgcommands/blog/tags","count":1}')}}]);
