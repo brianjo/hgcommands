@@ -9,7 +9,7 @@ const config = {
   title: 'HG Commands',
   tagline: 'Dinosaurs are cool',
   url: 'https://brianjo.github.io/hgcommands/',
-  baseUrl: '/',
+  baseUrl: '/hgcommands/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
